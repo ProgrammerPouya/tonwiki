@@ -11,7 +11,7 @@ LANDING_DESCRIPTION = "good luck getting it to work tho"
 LANDING_PAGE = "ton"
 # (Optional) Site title on landing page
 LANDING_TITLE = "ToN time baby"
-PYTHON_VERSION = "3.12"
+PYTHON_VERSION = "3.9"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/Alecaboo/anrwiki"
 # (Optional) Site title in navbar
