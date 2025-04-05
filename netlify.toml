@@ -8,7 +8,7 @@ LANDING_BUTTON = "Go somewhere"
 # (Optional) Site description on landing page
 LANDING_DESCRIPTION = "good luck getting it to work tho"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "ton"
+LANDING_PAGE = "Tower of Nitro"
 # (Optional) Site title on landing page
 LANDING_TITLE = "ToN time baby"
 PYTHON_VERSION = "3.9"

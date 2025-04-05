@@ -11,11 +11,11 @@ To effectively jumpstart `ToN1` (and `ToN` in general), [[Doteki]] aimed to recr
 
 `ToN1` was set up in `11` stages ranging from [[Stage 0]] to [[Stage 10]]. The entirety of `ToN1` was run by [[Doteki]]. This Tower lasted a full week before concluding with [[026]] becoming the first winner of a tower.
 ## The Tower of Nitro #2 (`ToN2`)
-## The Tower of Nitro #3 (`ToN3)
-## The Tower of Nitro #4 (`ToN4)
-## The Tower of Nitro #5 (`ToN52`)
-## The Tower of Nitro #6 (`ToN6)
-## The Tower of Nitro #72 (`ToN7)
+## The Tower of Nitro #3 (`ToN3`)
+## The Tower of Nitro #4 (`ToN4`)
+## The Tower of Nitro #5 (`ToN5`)
+## The Tower of Nitro #6 (`ToN6`)
+## The Tower of Nitro #72 (`ToN7`)
 # Useful Links
 ### [[Ranks]]
 ### [[Code Name]]
