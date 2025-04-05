@@ -1,4 +1,4 @@
-Alias: "Dot"
+Alias: `000`, "Dot"
 Discord User: `.3k1`
 
-Founder of [[Tower of Nitro]], also known as the [[Overseer]].
+Founder of [[ToN]], also known as the [[Overseer]].
