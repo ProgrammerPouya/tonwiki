@@ -1,2 +1,0 @@
-# Tower of Nitro
-Text
