@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Renowned Users.md",
+                "file": "Users/Renowned Users.md",
                 "mode": "source",
                 "source": false
               },
@@ -24,17 +24,15 @@
             }
           },
           {
-            "id": "75aff8c23af95032",
+            "id": "03cf66a4a771f5da",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "377.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "377"
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -166,8 +164,19 @@
               "icon": "lucide-list",
               "title": "Outline of 277"
             }
+          },
+          {
+            "id": "7bd4b8c8e9887d22",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -187,37 +196,43 @@
   },
   "active": "0082e8fdc90b3d5d",
   "lastOpenFiles": [
-    "377.md",
-    "Renowned Users.md",
-    "286.md",
-    "311.md",
-    "ToN.md",
-    "287.md",
-    "254.md",
-    "221.md",
-    "177.md",
-    "178.md",
-    "172.md",
-    "126.md",
-    "116.md",
-    "102.md",
-    "099.md",
-    "-080.md",
+    "Ranks/Ranks.md",
+    "Users/Renowned Users.md",
+    "Ranks/Non-Number.md",
+    "Users/-049.md",
+    "Name Codes.md",
+    "RP Stuff",
+    "Tower Stuff",
+    "Tower Stuff/Code Name.md",
+    "Users/386.md",
+    "Ranks",
+    "Titles",
+    "Users",
+    "Users/377.md",
+    "Users/Doteki.md",
+    "Tower Stuff/001-099.md",
+    "Titles/Champion.md",
+    "Untitled.canvas",
+    "Tower Stuff/Tower of Percenter.md",
+    "Tower Stuff/Stages.md",
+    "Tower Stuff/Tower of War.md",
+    "Tower Stuff/Stage 0.md",
+    "Tower Stuff/Tower of Crab.md",
+    "Tower Stuff/Stage 10.md",
+    "Tower Stuff/Overseer.md",
+    "Titles/Rankers.md",
+    "Tower Stuff/Tenters.md",
+    "Titles/Angel.md",
+    "Titles/Fangel.md",
+    "RP Stuff/Pyno.md",
+    "Tower Stuff/Tenther Leaderboard.md",
+    "Tower Stuff/Director.md",
+    "Titles/Devil.md",
     "Attachments/Pasted image 20250411231107.png",
     "Attachments/Pasted image 20250411231102.png",
     "Attachments/Pasted image 20250411231059.png",
     "Attachments",
-    "033.md",
-    "052.md",
-    "051.md",
-    "-049.md",
-    "044.md",
-    "Number.md",
-    "042.md",
-    "027.md",
-    "016.md",
-    "017.md",
-    "ToN Ranks.png",
+    "Tower Stuff/ToN Ranks.png",
     "Attachments/AI Gllenn.png",
     "Attachments/Pasted image 20230729001021.png",
     "Attachments/Pasted image 20230729001037.png",
