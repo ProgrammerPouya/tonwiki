@@ -13,7 +13,7 @@ LANDING_PAGE = "ToN"
 LANDING_TITLE = "Tower of Nitro Wiki"
 PYTHON_VERSION = "3.9"
 # (REQUIRED) Site repo URL
-REPO_URL = "https://github.com/Alecaboo/anrwiki"
+REPO_URL = "https://github.com/ProgrammerPouya/tonwiki"
 # (Optional) Site title in navbar
 SITE_TITLE = "ToN wiki"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
