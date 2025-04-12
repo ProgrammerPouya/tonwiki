@@ -1,3 +1,4 @@
+Also check out [[Numbers For Sale]], AKA a list of [[Code Name]] held by users who never clicked with the server. Moving forward, these [[Code Name]] may be up for grabs by users who may fit them better.
 
 | Name       | Description                                                                                                                                                                                                                                  |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -10,6 +11,7 @@
 | [[009]]    | A [[Percenter]]. This user was the first to receive the `Murderer` title.                                                                                                                                                                    |
 | [[+013]]   | The first (and only) [[Angel]] candidate to fulfill their contract, leading to the coronation of many [[Tenther]] (including herself).                                                                                                       |
 | [[014]]    | A [[Tenther]] and one of the [[Rankers]]. Most rules in the server were created after witnessing [[014]]'s unorthodox messages.                                                                                                              |
+| 015        | A former [[Number]].                                                                                                                                                                                                                         |
 | [[016]]    | A [[Percenter]]. This user was also an active gamemaster for [[AnR]] for some time, along with a previous [[Director]].                                                                                                                      |
 | [[024]]    | A [[Letter]]. This user is the only one that holds the `Reaper` title, accomplished for indirectly causing the elimination of more than `1/3rd` of all participants.                                                                         |
 | [[027]]    | A [[Letter]]. Some other titles include `Strategist`, `False Hero`, `Zombie`, and `Grandmaster`. Also part of the [[Rankers]].                                                                                                               |
@@ -33,6 +35,7 @@
 | 115        | A [[Number]]. Suspected alt or relative of [[116]]. (Satire)                                                                                                                                                                                 |
 | [[116]]    | A [[Tenther]] also the only [[Fangel]]. This user's actions have always been unorthodox, so its no surprise he ended up completing a non-existent contract.                                                                                  |
 | [[126]]    | A [[Tenther]] and [[Director]]. This user a memester through and through, competing with the likes of [[014]] and [[052]].                                                                                                                   |
+| 129        | A [[Number]]. In cahoots with 375. However, the user's existence is a testament to the past and cannot be ignored.                                                                                                                           |
 | [[172]]    | A [[Number]] and [[Director]]. The second most involved user in [[AnR]]. Also, coincidentally, the person who taught me how to make wikis like these!                                                                                        |
 | [[177]]    | A [[Percenter]] and the [[Champion]]. This user rejected to become a [[Letter]], resulting in her unique status. Also a former [[Director]].                                                                                                 |
 | [[178]]    | A [[Percenter]] and [[AnR]] player.                                                                                                                                                                                                          |
@@ -49,4 +52,5 @@
 | 360        | A [[Tenther]].                                                                                                                                                                                                                               |
 | 375        | A [[Number]], who almost won [[Letter]] through a series of events. This user is barred from entering [[Tenther Leaderboard]].                                                                                                               |
 | [[377]]    | Talking about out of box. This [[Number]] is one that might make you stay up at night. You're lucky you didn't run into him 2 years ago. Even luckier if you haven't ever run into him. (Satire (?))                                         |
-
+| 386        | A [[Number]]*.                                                                                                                                                                                                                               |
+\*: Appearances can be deceiving.
