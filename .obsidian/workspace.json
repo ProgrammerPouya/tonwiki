@@ -36,20 +36,21 @@
             }
           },
           {
-            "id": "91d6d97c84c0d273",
+            "id": "eddcf62acd5401bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Users/017.md",
+                "file": "Users/Renowned Users.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "017"
+              "title": "Renowned Users"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,12 +209,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0082e8fdc90b3d5d",
+  "active": "eddcf62acd5401bd",
   "lastOpenFiles": [
-    "Users/017.md",
-    "Users/027.md",
+    "Titles/Angel.md",
     "Users/Renowned Users.md",
+    "Users/017.md",
     "Users/Numbers For Sale.md",
+    "Users/027.md",
     "Users/386.md",
     "ToN.md",
     "Ranks/Ranks.md",
@@ -240,7 +242,6 @@
     "Tower Stuff/Overseer.md",
     "Titles/Rankers.md",
     "Tower Stuff/Tenters.md",
-    "Titles/Angel.md",
     "Titles/Fangel.md",
     "Attachments/Pasted image 20250411231107.png",
     "Attachments/Pasted image 20250411231102.png",

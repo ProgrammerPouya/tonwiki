@@ -2,7 +2,7 @@ At some point, these numbers may be available for [[Tenters]] to be acquired. No
 
 | Available Numbers              | Price        |
 | ------------------------------ | ------------ |
-| 001, 002, 005, 006             | `9`          |
+| ~~001,~~ 002, 005, 006             | `9`          |
 | 010, 012, 017-019              | `9`          |
 | 020-023, 025, 026, 028         | `9`          |
 | 030-032, 036-038               | `9`          |
